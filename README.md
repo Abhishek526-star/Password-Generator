@@ -15,7 +15,7 @@ This is a React-based password generator that creates secure, random passwords w
 
 📋 Copy generated passwords to the clipboard with a single click.
 
-## Link
+## Link (https://password-generator-jade-mu.vercel.app/)
 ## Screenshot 📸
 
 ![Screenshot 2024-12-28 004717](https://github.com/user-attachments/assets/05e859d3-737b-44be-a5f1-d2f8ba349151)
