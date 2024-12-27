@@ -66,7 +66,7 @@ function App() {
               value={length}
               className="cursor-pointer"
               onChange={(e) => {
-                setLength(e.target.value);
+                setlength(e.target.value);
               }}
             />
             <label>Length: {length}</label>
